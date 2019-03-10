@@ -12,6 +12,6 @@ And all software engineers in Japan must be arrested, right?
 
 ## How to get arrested
 
-1. Download this tool from [release page]()
+1. Download this tool from [release page](https://github.com/ryo-yamaoka/i-want-to-be-arrested/releases)
 1. Distribute to your friends, colleagues, other people.
 1. Wait for be arrested or do self-surrender to the police.
