@@ -4,7 +4,7 @@ JavaScript endless loop is regarded as a crime in Japan.
 
 That is, also this project should be considered to crime.
 
-And all software engineers must be arrested, right?
+And all software engineers in Japan must be arrested, right?
 
 ## Related project
 
